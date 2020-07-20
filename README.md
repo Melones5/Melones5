@@ -1,6 +1,6 @@
 ### Hi there,soy Alexis
 
-##Tecnologías y lenguajes
+> Tecnologías y Lenguajes
 
 - Vuejs 
 - JavaScript
