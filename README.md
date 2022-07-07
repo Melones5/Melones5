@@ -3,6 +3,7 @@
 > Tecnologías y Lenguajes
 
 - Vuejs 
+- React
 - JavaScript
 - CSS
 - Boostrap
