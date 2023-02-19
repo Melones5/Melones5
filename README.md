@@ -3,6 +3,7 @@
       <h1 align="center">Hi there👋, I'm Alexis</h1>
       <h3 align="center">I'm a frontend developer from Argentina.</h3>
       <h3 align="center">I am currently working with javascript with frameworks such as Reactjs, Vuejs..</h3>
+      <h3 align="center">I am also working with postgresql, firebase and nodejs. </h3>      
 </div>
 
 <div id="badges" align="center">
