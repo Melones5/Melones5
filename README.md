@@ -48,8 +48,10 @@
 ---
 
 ### Estadísticas (My stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melones5&theme=merko)](https://git.io/streak-stats)
+<div id='header' align="center">
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melones5&theme=merko)](https://git.io/streak-stats)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melones5&show_icons=true&theme=radical)
+      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melones5&show_icons=true&theme=radical)
 ---
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Melones5&theme=radical&layout=compact)
+      ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Melones5&theme=radical&layout=compact)
+</div>
