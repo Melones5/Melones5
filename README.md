@@ -49,3 +49,5 @@
 
 ### Estadísticas (My stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melones5&theme=merko)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melones5&show_icons=true&theme=radical)
