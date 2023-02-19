@@ -19,6 +19,8 @@
 </a>
 <br>
 
+---
+
 ## Tecnologías y Lenguajes (Technologies and Languages)
 
 - Vuejs 
