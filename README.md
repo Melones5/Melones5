@@ -5,6 +5,13 @@
       <h3 align="center">I am currently working with javascript with frameworks such as Reactjs, Vuejs..</h3>
 </div>
 
+<div id="badges" align="center">
+    <a href="https://twitter.com/melones5" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/Melones5?color=green&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge" />
+    </a>
+</div>
+
 > Tecnologías y Lenguajes (Technologies and Languages)
 
 - Vuejs 
