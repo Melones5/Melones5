@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **React.js, tailwind css, Javascript, REST node, Postgreql**
 
 
-## Tecnologías y Lenguajes (Technologies and Languages)
+### Tecnologías y Herramientas (Technologies and Tools)
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
@@ -45,4 +45,7 @@
       </div>
 </div>
 
+---
 
+### Estadísticas (My stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melones5&theme=merko)](https://git.io/streak-stats)
