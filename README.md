@@ -12,7 +12,7 @@
     </a>
 </div>
 
-## Connect with me
+## Contacta conmigo (Connect with me)
 
 <a href="https://www.linkedin.com/in/alexis-joel-santos/">
 <img align="left" alt="Alexis Joel Santos LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
