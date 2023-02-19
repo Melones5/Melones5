@@ -19,7 +19,7 @@
 </a>
 <br>
 
-> Tecnologías y Lenguajes (Technologies and Languages)
+## Tecnologías y Lenguajes (Technologies and Languages)
 
 - Vuejs 
 - React
