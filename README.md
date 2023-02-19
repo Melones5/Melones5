@@ -3,7 +3,6 @@
       <h1 align="center">Hi there👋, I'm Alexis</h1>
       <h3 align="center">I'm a frontend developer from Argentina.</h3>
       <h3 align="center">I am currently working with javascript with frameworks such as Reactjs, Vuejs..</h3>
-      <h3 align="center">I am also working with postgresql, firebase and nodejs. </h3>      
 </div>
 
 <div id="badges" align="center">
@@ -27,6 +26,8 @@
 - 📫 How to reach me **alexissantos1496@gmail.com**
 
 - 📚 I’m currently learning **React.js, tailwind css, Javascript, REST node, Postgreql**
+
+- I am also working with postgresql, firebase and nodejs. 
 
 
 ### Tecnologías y Herramientas (Technologies and Tools)
