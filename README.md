@@ -21,11 +21,11 @@
 
 ---
 
-### 👨‍💻 Sobre mi (About Me) :
+###  Sobre mi (About Me) :
 
 - 📫 How to reach me **alexissantos1496@gmail.com**
 
-- 🌱 I’m currently learning **React.js, tailwind css, Javascript, REST node, Postgreql**
+- 📚 I’m currently learning **React.js, tailwind css, Javascript, REST node, Postgreql**
 
 
 ### Tecnologías y Herramientas (Technologies and Tools)
