@@ -5,7 +5,7 @@
       <h3 align="center">Currently learning about business analytics and data analytics</h3>
 </div>
 
-![Banner alexis] (banner.png)
+![Banner alexis](banner.png)
 
 ## Contacta conmigo (Connect with me)
 
