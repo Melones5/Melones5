@@ -25,10 +25,11 @@
 
 ### Tecnologías y Herramientas (Technologies and Tools)
 
-<div align="left">
+<div align="center">
     <h3>🔨 Languages and Tools:</h3>
-      <img align="left" alt="Alexis Joel Santos LinkedIN" width="1200px" src="https://github.com/Melones5/Melones5/assets/32208091/ca1f5957-c73c-47d9-ada4-5332b7360033" />
+      <img align="left" alt="Alexis Joel Santos LinkedIN" width="1200px" src="https://github.com/Melones5/Melones5/assets/32208091/ca1f5957-c73c-47d9-ada4-5332b7360033"/>
 </div>
+
 
 ---
 
