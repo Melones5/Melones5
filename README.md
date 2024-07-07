@@ -1,10 +1,3 @@
-<div id='header' align="center">
-      <img src='https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif' width='200'/>
-      <h1 align="center">Hi there👋, I'm Alexis</h1>
-      <h3 align="center">I'm an Administration Technician and Systems Analyst from Argentina.</h3>
-      <h3 align="center">Currently learning about business analytics and data analytics</h3>
-</div>
-
 ![Banner alexis](banner.png)
 
 ## Contacta conmigo (Connect with me)
