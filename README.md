@@ -2,7 +2,7 @@
       <img src='https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif' width='200'/>
       <h1 align="center">Hi there👋, I'm Alexis</h1>
       <h3 align="center">I'm a frontend developer from Argentina.</h3>
-      <h3 align="center">I am currently working with javascript with frameworks such as Reactjs, Vuejs..</h3>
+      <h3 align="center">I am currently working with Power Bi and learning to use DAX</h3>
 </div>
 
 <div id="badges" align="center">
@@ -25,9 +25,9 @@
 
 - 📫 How to reach me **alexissantos1496@gmail.com**
 
-- 📚 I’m currently learning **React.js, tailwind css, Javascript, REST node, Postgreql**
+- 📚 I’m currently learning **Power BI, DAX**
 
-- I am also working with postgresql, firebase and nodejs. 
+- I am also working with **SQL**. 
 
 
 ### Tecnologías y Herramientas (Technologies and Tools)
