@@ -5,6 +5,8 @@
       <h3 align="center">Currently learning about business analytics and data analytics</h3>
 </div>
 
+![Banner alexis] (banner.png)
+
 ## Contacta conmigo (Connect with me)
 
 <a href="https://www.linkedin.com/in/alexis-joel-santos/">
