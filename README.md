@@ -22,7 +22,7 @@
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
-      <img align="left" alt="Alexis Joel Santos LinkedIN" width="1200px" src="https://github.com/Melones5/Melones5/assets/32208091/bb818849-fec6-4469-b0c1-319b0bccbabe"/>
+      <img align="left" alt="Alexis Joel Santos LinkedIN" width="1200px" src="https://github.com/Melones5/Melones5/assets/32208091/b72fb3cb-2fd9-4222-a472-de788b59effe"/>
 </div>
 
 
