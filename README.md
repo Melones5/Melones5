@@ -5,13 +5,6 @@
       <h3 align="center">I am currently working with Power Bi and learning to use DAX</h3>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://twitter.com/melones5" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/Melones5?color=green&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
-
 ## Contacta conmigo (Connect with me)
 
 <a href="https://www.linkedin.com/in/alexis-joel-santos/">
