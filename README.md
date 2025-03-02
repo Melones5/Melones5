@@ -1,4 +1,4 @@
-![Banner alexisv2](banner.png)
+![Banner alexisv2](bannerv2.png)
 
 ## Contacta conmigo (Connect with me)
 
